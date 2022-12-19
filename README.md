@@ -41,24 +41,26 @@ Your traffic passes through 3 intermediate nodes before reaching destination. Ea
 ## Tor layers
 
 - Guard node — knows your IP address but doesn’t know where you connect to and what you send to destination
-- Middle node —immediate layer between guard node and exit node
+- Middle node — immediate layer between guard node and exit node
 - Exit node — knows destination but doesn’t know who you are
 
 # What is darknet?
 
 The Web consists of three large areas:
 
-- surface web — publicly accessible resources, e.g. search engines, news, social media that can be indexed by search engines
+- surface web (often called clearnet, cleannet) — publicly accessible resources, e.g. search engines, news, social media that can be indexed by search engines
 - deep web — resources not indexed by search engines, because they are protected by password or stored behind public services, e.g. companies internal platforms, medical records, research papers, legal documents
 - dark web — resources that can be accessed only with specific software, they are not accessible from standard web browser, e.g. whistleblowers secure drops, secret communication channels for activist, journalists, human rights activists but also many illegal marketplaces and shops
 
 # What are hidden services?
 
-Hidden services are accessible only within Tor network. Their domain names end with .onion. They are not indexed by any public search engine. The only way to enter .onion sites is to know equal address.
+Hidden services are accessible only within Tor network. Their domain names end with .onion. They are not indexed by any public search engine. The only way to enter .onion sites is to know equal address. You can find some example links in table above.
 
 # How to find hidden services
 
 There are many link lists, wikis and catalogues where you can find addresses to .onion sites. There are also many link lists in clearnet but majority of them is not updated and most links do not work. It’s standard that hidden services work for small amount of time and dissappear forever.
+
+This github page is maintained by voluteers, that makes this page get updated more often - to provide better access to information.
 
 There are some darknet search engines mostly created by amateurs and they are very limited due to hidden services nature.
 
@@ -74,6 +76,7 @@ Tor was oficially deployed in October 2002 and its source code was released unde
 
 Tor is supported by US government, many NGOs, private foundations, research institutions, private companies and over 20,000 personal donations from people from around the World.
 
-# Source
+## Sources
 
 https://medium.com/@darknethome/how-to-enter-darknet-in-2021-b55532cdc3f9
+https://brave.com/
