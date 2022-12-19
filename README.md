@@ -8,7 +8,7 @@ Your source for everything TOR (Guides, tor links, tor directory, onion links)
 | --- | --- |
 | Facebook | [facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion](http://facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion) |
 | ProtonMail | [protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion](http://protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion) |
-| more |
+| DuckDuckGo | [duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion](https://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion) |
 | site | site |
 
 # How to access darknet?
