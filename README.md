@@ -1,4 +1,4 @@
-Your source for everything TOR
+Your source for everything TOR (Guides, tor links, tor directory, onion links)
 # Tor link list 2023
 
 :warning: The following links work only in Tor Browser. Download it from: https://www.torproject.org/download/
