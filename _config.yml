@@ -1,4 +1,5 @@
-theme: jekyll-theme-minimal
+markdown: kramdown
+theme: jekyll-theme-minima
 title: ✔️Verified Tor Links 2023
 description: Tor Links and guides, Updated for 2023
-markdown: kramdown
+
