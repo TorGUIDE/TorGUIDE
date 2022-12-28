@@ -3,7 +3,7 @@ Your source for everything TOR (Guides, tor links, tor directory, onion links)
 
 :warning: The following links work only in Tor Browser. Download it from: https://www.torproject.org/download/
 
-## Tor versions of clearnet sites (for enchanced privacy)
+Tor versions of clearnet sites (for enchanced privacy)
 | Site | URL in TOR |
 | --- | --- |
 | Facebook | [facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion](http://facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion) |
