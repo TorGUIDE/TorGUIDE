@@ -1,4 +1,5 @@
 markdown: kramdown
+logo: /docs/logo.png
 theme: jekyll-theme-minimal
 title: ✔️Verified Tor Links
 description: Your source for everything TOR (Guides, tor links, tor directory, onion links), Tor Links and guides, Updated for 2023, Working links only 
