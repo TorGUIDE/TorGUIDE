@@ -1,5 +1,5 @@
-Your source for everything TOR (Guides, tor links, tor directory, onion links)
 # Tor link list 2023
+Your source for everything TOR (Guides, tor links, tor directory, onion links)
 
 :warning: The following links work only in Tor Browser. Download it from: https://www.torproject.org/download/
 
@@ -94,3 +94,16 @@ Tor is supported by US government, many NGOs, private foundations, research inst
 
 https://medium.com/@darknethome/how-to-enter-darknet-in-2021-b55532cdc3f9
 https://brave.com/
+
+Tags:
+tor links 2023
+deepweb links
+darkweb links
+darknet links
+deepnet links
+tor market links
+tor link list
+deep web links
+dark web links
+dark net links
+deep net links
