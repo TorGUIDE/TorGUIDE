@@ -1,7 +1,7 @@
 # Tor link list 2023
-Your source for everything TOR (Guides, tor links, tor directory, onion links)
+Your source for everything TOR (Guides, tor links, tor directory, onion links, deep web links, dark web links)
 
-:warning: The following links work only in Tor Browser. Download it from: https://www.torproject.org/download/
+:warning: The following TOR Links work only in Tor Browser. Download it from: https://www.torproject.org/download/
 
 Tor versions of clearnet sites (for enchanced privacy)
 
@@ -23,7 +23,7 @@ Tor versions of clearnet sites (for enchanced privacy)
 | Apple World | [applbwku7dfadkfkumiojsbxekuiafpr44idl7bxb2xll6neykvx35id.onion](http://applbwku7dfadkfkumiojsbxekuiafpr44idl7bxb2xll6neykvx35id.onion) |
 | Hackerpass | [hackeoyrzjy3ob4cdr2q56bgp7cpatruphcxvgbfsiw6zeqcc36e4ryd.onion](http://hackeoyrzjy3ob4cdr2q56bgp7cpatruphcxvgbfsiw6zeqcc36e4ryd.onion) |
 
-# How to access darknet?
+# How to access dark net?
 
 To enter darknet, download Tor Browser. It’s a modified Firefox that allows access to the dark web and is configured for higher security.
 
@@ -68,11 +68,11 @@ The Web consists of three large areas:
 
 # What are hidden services?
 
-Hidden services are accessible only within Tor network. Their domain names end with .onion. They are not indexed by any public search engine. The only way to enter .onion sites is to know equal address. You can find some example links in table above.
+Hidden services are accessible only within Tor network. Their domain names end with .onion. They are not indexed by any public search engine. The only way to enter .onion sites is to know equal address. You can find some example deep web links in table above.
 
 # How to find hidden services
 
-There are many link lists, wikis and catalogues where you can find addresses to .onion sites. There are also many link lists in clearnet but majority of them is not updated and most links do not work. It’s standard that hidden services work for small amount of time and dissappear forever.
+There are many tor link lists, wikis and catalogues where you can find addresses to .onion sites. There are also many link lists in clearnet but majority of them is not updated and most links do not work. It’s standard that hidden services work for small amount of time and dissappear forever.
 
 This github page is maintained by voluteers, that makes this page get updated more often - to provide better access to information.
 
@@ -92,18 +92,32 @@ Tor is supported by US government, many NGOs, private foundations, research inst
 
 ## Sources
 
+[links onion](https://torguide.github.io/TorGUIDE/)
 https://medium.com/@darknethome/how-to-enter-darknet-in-2021-b55532cdc3f9
+[dark web links](https://torguide.github.io/TorGUIDE/)
 https://brave.com/
+[deep web links](https://torguide.github.io/TorGUIDE/)
 
 Tags:
 tor links 2023
-deepweb links
-darkweb links
+deep web links
+dark web links 2023
+dark web links
+links onion
+links onion 2023
+onion links
+onion links 2023
+tor links
+tor onion links
 darknet links
-deepnet links
+tor markets
+dark net links
+tor browser links
+tor market link
+darkweb links
 tor market links
 tor link list
-deep web links
-dark web links
-dark net links
+deepnet links
+deepweb links
 deep net links
+tor links github
