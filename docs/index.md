@@ -1,6 +1,6 @@
-# Tor link list 2023
+# Tor links list 2023
 
-⚠️ The following links work only in Tor Browser. Download it from: https://www.torproject.org/download/
+⚠️ The following TOR Links work only in Tor Browser. Download it from: https://www.torproject.org/download/
 
 Tor versions of clearnet sites (for enchanced privacy)
 
@@ -24,7 +24,7 @@ Tor versions of clearnet sites (for enchanced privacy)
 | Hackerpass | [hackeoyrzjy3ob4cdr2q56bgp7cpatruphcxvgbfsiw6zeqcc36e4ryd.onion](http://hackeoyrzjy3ob4cdr2q56bgp7cpatruphcxvgbfsiw6zeqcc36e4ryd.onion) |
 
 
-# How to access darknet?
+# How to access dark net?
 
 To enter darknet, download Tor Browser. It’s a modified Firefox that allows access to the dark web and is configured for higher security.
 
@@ -69,11 +69,11 @@ The Web consists of three large areas:
 
 # What are hidden services?
 
-Hidden services are accessible only within Tor network. Their domain names end with .onion. They are not indexed by any public search engine. The only way to enter .onion sites is to know equal address. You can find some example links in table above.
+Hidden services are accessible only within Tor network. Their domain names end with .onion. They are not indexed by any public search engine. The only way to enter .onion sites is to know equal address. You can find some example [deep web links](https://github.com/TorGUIDE) in table above.
 
 # How to find hidden services
 
-There are many link lists, wikis and catalogues where you can find addresses to .onion sites. There are also many link lists in clearnet but majority of them is not updated and most links do not work. It’s standard that hidden services work for small amount of time and dissappear forever.
+There are many tor link lists, wikis and catalogues where you can find addresses to .onion sites. There are also many link lists in clearnet but majority of them is not updated and most links do not work. It’s standard that hidden services work for small amount of time and dissappear forever.
 
 This github pages are maintained by voluteers, that makes this page get updated more often - to provide better access to information:
 [Tor links 2023](https://github.com/TorGUIDE)
@@ -99,14 +99,25 @@ https://brave.com/
 
 
 Tags:
-tor links 2023
-deepweb links
-darkweb links
-darknet links
-deepnet links
-tor market links
-tor link list
-deep web links
-dark web links
-dark net links
-deep net links
+[tor links 2023](https://github.com/TorGUIDE)
+[deep web links](https://github.com/TorGUIDE)
+[dark web links 2023](https://github.com/TorGUIDE)
+[dark web links](https://github.com/TorGUIDE)
+[links onion](https://github.com/TorGUIDE)
+[links onion 2023](https://github.com/TorGUIDE)
+[onion links](https://github.com/TorGUIDE)
+[onion links 2023](https://github.com/TorGUIDE)
+[tor links](https://github.com/TorGUIDE)
+[tor onion links](https://github.com/TorGUIDE)
+[darknet links](https://github.com/TorGUIDE)
+[tor markets](https://github.com/TorGUIDE)
+[dark net links](https://github.com/TorGUIDE)
+[tor browser links](https://github.com/TorGUIDE)
+[tor market link](https://github.com/TorGUIDE)
+[darkweb links](https://github.com/TorGUIDE)
+[tor market links](https://github.com/TorGUIDE)
+[tor link list](https://github.com/TorGUIDE)
+[deepnet links](https://github.com/TorGUIDE)
+[deepweb links](https://github.com/TorGUIDE)
+[deep net links](https://github.com/TorGUIDE)
+[tor links github](https://github.com/TorGUIDE)
