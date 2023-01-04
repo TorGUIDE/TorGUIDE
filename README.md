@@ -99,6 +99,7 @@ https://brave.com/
 [deep web links](https://torguide.github.io/TorGUIDE/)
 
 Tags:
+dark market
 hidden wiki
 hidden service
 tor search
@@ -114,6 +115,7 @@ deep web links
 tor links
 onion sites
 hidden services
+tor market
 onion service
 links onion 2023
 onion links 2023
@@ -128,12 +130,19 @@ tor onion links
 darknet links
 darkweb links
 tor directory
+weed tor
+drugs tor
 tor markets
 deepweb links
 dark net links
 tor market link
 tor link list
 deepnet links
+tor vendor
 tor market links
+onion vendor
+torwiki
 wikitor
 deep net links
+plug darkweb
+
