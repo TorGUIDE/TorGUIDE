@@ -67,6 +67,15 @@ https://brave.com/download/
 
 Using Tor is legal in most countries. It’s illegal to perform certain activities, depending on your residency these may include: buying or selling drugs, weapons, counterfeit money, abusive materials etc.
 
+# What is darknet?
+
+The Web consists of three large areas:
+
+- surface web (often called clearnet, cleannet) — publicly accessible resources, e.g. search engines, news, social media that can be indexed by search engines
+- deep web — resources not indexed by search engines, because they are protected by password or stored behind public services, e.g. companies internal platforms, medical records, research papers, legal documents
+- dark web — resources that can be accessed only with specific software, they are not accessible from standard web browser, e.g. whistleblowers secure drops, secret communication channels for activist, journalists, human rights activists but also many illegal marketplaces and shops
+
+
 # What is Tor?
 
 Tor (The Onion Router) is an open-source software that bounces Internet traffic through a worldwide network consisting of almost million relays in order to hide user’s location and protect him against surveillance or traffic analysis. Tor makes more difficult to trace Internet activity: websites visits, online posts, instant messages and other communication forms.
@@ -81,13 +90,6 @@ Your traffic passes through 3 intermediate nodes before reaching destination. Ea
 - Middle node — immediate layer between guard node and exit node
 - Exit node — knows destination but doesn’t know who you are
 
-# What is darknet?
-
-The Web consists of three large areas:
-
-- surface web (often called clearnet, cleannet) — publicly accessible resources, e.g. search engines, news, social media that can be indexed by search engines
-- deep web — resources not indexed by search engines, because they are protected by password or stored behind public services, e.g. companies internal platforms, medical records, research papers, legal documents
-- dark web — resources that can be accessed only with specific software, they are not accessible from standard web browser, e.g. whistleblowers secure drops, secret communication channels for activist, journalists, human rights activists but also many illegal marketplaces and shops
 
 # What are hidden services?
 
