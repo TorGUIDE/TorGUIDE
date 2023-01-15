@@ -2,19 +2,22 @@
 
 ⚠️ The following TOR Links work only in Tor Browser. Download it from: https://www.torproject.org/download/
 
-Tor versions of clearnet sites (for enchanced privacy)
+## Tor versions of clearnet sites (for enchanced privacy)
 
+
+| Site | TOR URL |
+| --- | --- |
+| Facebook | [facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion](http://facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion) |
+| Twitter | [twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion](https://twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion) |
+| DuckDuckGo | [duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion](https://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion) |
+| Hidden wiki | [wikiv2z7bogl633j4ok2fs3a3ht5f45gpjtiasmqwuxacclxek4u47qd.onion](http://wikiv2z7bogl633j4ok2fs3a3ht5f45gpjtiasmqwuxacclxek4u47qd.onion) |
+| Tor Search | site down, waiting for new link. |
+
+
+## Commercial markets
 
 | Site | URL in TOR (OnionV3 Link) |
 | --- | --- |
-| Facebook | [facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion](http://facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion) |
-| ProtonMail | [protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion](http://protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion) |
-| DuckDuckGo | [duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion](https://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion) |
-| Hidden wiki | site down, waiting for new link. |
-| Hidden market | site down, waiting for new link. |
-| Tor Search | site down, waiting for new link. |
-| Mempool.space (BTC only) | [mempoolhqx4isw62xs7abwphsq7ldayuidyx2v2oethdhhj6mlo2r6ad.onion](http://mempoolhqx4isw62xs7abwphsq7ldayuidyx2v2oethdhhj6mlo2r6ad.onion) |
-| Monero Official | [monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion](http://monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion) |
 | MoneYUU | [moneyuu7hga6jpcfbamefsjwkv3bez3b3hkczpfzjb5zneunpqdh2uyd.onion](http://moneyuu7hga6jpcfbamefsjwkv3bez3b3hkczpfzjb5zneunpqdh2uyd.onion) |
 | Paypal World | [payplb3mm5bdkns6v7xou7xeefcl5bqedofcpnd462rw4gm4xbbwfpad.onion](http://payplb3mm5bdkns6v7xou7xeefcl5bqedofcpnd462rw4gm4xbbwfpad.onion) |
 | Chemi5 | [chemi5wtn2hs27wlwgaosi663wswrutofqzhvrjb2ogtxpb42gezebqd.onion](http://chemi5wtn2hs27wlwgaosi663wswrutofqzhvrjb2ogtxpb42gezebqd.onion) |
@@ -22,6 +25,26 @@ Tor versions of clearnet sites (for enchanced privacy)
 | GiftTo(r) | [giftto33ep564ztvpc6652xt4vkupphghcvtxqwpxi6gq5k2fmjd4zid.onion](http://giftto33ep564ztvpc6652xt4vkupphghcvtxqwpxi6gq5k2fmjd4zid.onion) |
 | Apple World | [applbwku7dfadkfkumiojsbxekuiafpr44idl7bxb2xll6neykvx35id.onion](http://applbwku7dfadkfkumiojsbxekuiafpr44idl7bxb2xll6neykvx35id.onion) |
 | Hackerpass | [hackeoyrzjy3ob4cdr2q56bgp7cpatruphcxvgbfsiw6zeqcc36e4ryd.onion](http://hackeoyrzjy3ob4cdr2q56bgp7cpatruphcxvgbfsiw6zeqcc36e4ryd.onion) |
+| Breaking Bad Forum | [bbzzzsvqcrqtki6umym6itiixfhni37ybtt7mkbjyxn2pgllzxf2qgyd.onion](http://bbzzzsvqcrqtki6umym6itiixfhni37ybtt7mkbjyxn2pgllzxf2qgyd.onion) |
+| Hidden market | site down, waiting for new link. |
+
+
+## Email Providers
+
+| Provider | Tor Link |
+| --- | --- |
+| ProtonMail | [protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion](http://protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion) |
+| DNMX | [dnmxjaitaiafwmss2lx7tbs5bv66l7vjdmb5mtb3yqpxqhk3it5zivad.onion](http://dnmxjaitaiafwmss2lx7tbs5bv66l7vjdmb5mtb3yqpxqhk3it5zivad.onion) |
+
+
+## Cryptocurrency related
+
+| Site | Dark web link |
+| --- | --- |
+| Mempool.space (BTC only) | [mempoolhqx4isw62xs7abwphsq7ldayuidyx2v2oethdhhj6mlo2r6ad.onion](http://mempoolhqx4isw62xs7abwphsq7ldayuidyx2v2oethdhhj6mlo2r6ad.onion) |
+| Monero Official | [monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion](http://monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion) |
+
+
 
 
 # How to access dark net?
@@ -30,7 +53,7 @@ To enter darknet, download Tor Browser. It’s a modified Firefox that allows ac
 
 You may get Tor Browser for Windows, Linux, Mac OS and Android here:
 
-https://www.torproject.org/download/
+https://torproject.org/download/
 
 For iOS the recommended browser is Onion Browser:
 
@@ -47,11 +70,8 @@ Using Tor is legal in most countries. It’s illegal to perform certain activiti
 
 # What is Tor?
 
-Tor (The Onion Router) is an open-source software that bounces Internet traffic through a worldwide network consisting of almost million relays in order to hide user’s location and protect him against surveillance or traffic analysis. Tor makes more difficult to trace Internet activity: websites visits, online posts, instant messages and other communication forms.
+Tor (The Onion Router) is an open-source software that bounces Internet traffic through a worldwide network consisting of almost million relays in order to hide user’s location and protect him against surveillance or traffic analysis. Tor makes more difficult to trace Internet activity: websites visits, online posts, instant messages and other communication forms. Your traffic passes through 3 intermediate nodes before reaching destination. Each of the 3 nodes has separate layer of encryption and nobody who watches your connection can read what you send and where.
 
-# How Tor works?
-
-Your traffic passes through 3 intermediate nodes before reaching destination. Each of the 3 nodes has separate layer of encryption and nobody who watches your connection can read what you send and where.
 
 ## Tor layers
 
@@ -69,14 +89,17 @@ The Web consists of three large areas:
 
 # What are hidden services?
 
-Hidden services are accessible only within Tor network. Their domain names end with .onion. They are not indexed by any public search engine. The only way to enter .onion sites is to know equal address. You can find some example [deep web links](https://github.com/TorGUIDE) in table above.
+Hidden services are accessible only within Tor network. Their domain names end with .onion. They are not indexed by any public search engine. The only way to enter .onion sites is to know equal address. You can find some example [dark web links](https://github.com/TorGUIDE) in table above.
 
 # How to find hidden services
 
 There are many tor link lists, wikis and catalogues where you can find addresses to .onion sites. There are also many link lists in clearnet but majority of them is not updated and most links do not work. It’s standard that hidden services work for small amount of time and dissappear forever.
 
 This github pages are maintained by voluteers, that makes this page get updated more often - to provide better access to information:
+
 [Tor links 2023](https://github.com/TorGUIDE)
+
+[Dark web links 2023](https://github.com/TorGUIDE)
 
 There are some darknet search engines mostly created by amateurs and they are very limited due to hidden services nature.
 
@@ -94,8 +117,9 @@ Tor is supported by US government, many NGOs, private foundations, research inst
 
 ## Sources
 
-https://medium.com/@darknethome/how-to-enter-darknet-in-2021-b55532cdc3f9
 https://brave.com/
+
+https://medium.com/@darknethome/how-to-enter-darknet-in-2021-b55532cdc3f9
 
 
 Tags:
@@ -105,12 +129,10 @@ Tags:
 [tor search](https://github.com/TorGUIDE), 
 [wiki tor](https://github.com/TorGUIDE), 
 [tor wiki](https://github.com/TorGUIDE), 
-[dark web links 2023](https://github.com/TorGUIDE), 
 [onion search](https://github.com/TorGUIDE), 
 [onion site](https://github.com/TorGUIDE), 
 [tor service](https://github.com/TorGUIDE), 
 [dark web links](https://github.com/TorGUIDE), 
-[tor links 2023](https://github.com/TorGUIDE), 
 [deep web links](https://github.com/TorGUIDE), 
 [tor links](https://github.com/TorGUIDE), 
 [onion sites](https://github.com/TorGUIDE), 
