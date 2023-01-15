@@ -16,7 +16,7 @@ Your source for everything TOR (Guides, tor links, tor directory, onion links, d
 | Tor Search | site down, waiting for new link. |
 
 
-## Commercial markets
+## Commercial TOR markets
 
 | Site | URL in TOR (OnionV3 Link) |
 | --- | --- |
@@ -31,7 +31,7 @@ Your source for everything TOR (Guides, tor links, tor directory, onion links, d
 | Hidden market | site down, waiting for new link. |
 
 
-## Email Providers
+## Email Providers (Tor Hidden Services)
 
 | Provider | Tor Link |
 | --- | --- |
@@ -139,7 +139,6 @@ tor links 2023,
 deep web links,
 tor links,
 onion sites,
-hidden services,
 tor market,
 onion service,
 links onion 2023,
@@ -157,7 +156,6 @@ darkweb links,
 tor directory,
 weed tor,
 drugs tor,
-tor markets,
 deepweb links,
 dark net links,
 tor market link,
