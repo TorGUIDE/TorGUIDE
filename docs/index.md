@@ -1,4 +1,4 @@
-# Tor links list 2023
+# Dark web links 2023 ~ TOR Links ~ Onion Sites
 
 ⚠️ The following TOR Links work only in Tor Browser. Download it from: https://www.torproject.org/download/
 
@@ -14,7 +14,7 @@
 | Tor Search | site down, waiting for new link. |
 
 
-## Commercial markets
+## Commercial TOR markets
 
 | Site | URL in TOR (OnionV3 Link) |
 | --- | --- |
@@ -29,7 +29,7 @@
 | Hidden market | site down, waiting for new link. |
 
 
-## Email Providers
+## Email Providers (Tor Hidden Service)
 
 | Provider | Tor Link |
 | --- | --- |
@@ -89,7 +89,7 @@ The Web consists of three large areas:
 
 # What are hidden services?
 
-Hidden services are accessible only within Tor network. Their domain names end with .onion. They are not indexed by any public search engine. The only way to enter .onion sites is to know equal address. You can find some example [dark web links](https://github.com/TorGUIDE) in table above.
+[Hidden services](https://github.com/TorGUIDE) are accessible only within Tor network. Their domain names end with .onion. They are not indexed by any public search engine. The only way to enter .onion sites is to know equal address. You can find some example [dark web links](https://github.com/TorGUIDE) in table above.
 
 # How to find hidden services
 
@@ -98,8 +98,6 @@ There are many tor link lists, wikis and catalogues where you can find addresses
 This github pages are maintained by voluteers, that makes this page get updated more often - to provide better access to information:
 
 [Tor links 2023](https://github.com/TorGUIDE)
-
-[Dark web links 2023](https://github.com/TorGUIDE)
 
 There are some darknet search engines mostly created by amateurs and they are very limited due to hidden services nature.
 
@@ -132,11 +130,9 @@ Tags:
 [onion search](https://github.com/TorGUIDE), 
 [onion site](https://github.com/TorGUIDE), 
 [tor service](https://github.com/TorGUIDE), 
-[dark web links](https://github.com/TorGUIDE), 
 [deep web links](https://github.com/TorGUIDE), 
 [tor links](https://github.com/TorGUIDE), 
 [onion sites](https://github.com/TorGUIDE), 
-[hidden services](https://github.com/TorGUIDE), 
 [tor market](https://github.com/TorGUIDE), 
 [onion service](https://github.com/TorGUIDE), 
 [links onion 2023](https://github.com/TorGUIDE), 
