@@ -1,5 +1,5 @@
 # Dark web links 2023 ~ TOR Links ~ Onion Sites
-Your source for everything TOR (Guides, tor links, tor directory, onion links, deep web links)
+Your source for everything TOR (Guides, tor links, tor directory, TOR onion links, deep web links)
 
 :warning: The following TOR Links work only in Tor Browser. Download it from: https://www.torproject.org/download/
 
@@ -31,7 +31,7 @@ Your source for everything TOR (Guides, tor links, tor directory, onion links, d
 | Hidden market | site down, waiting for new link. |
 
 
-## Email Providers (Tor Hidden Services)
+## Email Providers (Tor Hidden Service)
 
 | Provider | Tor Link |
 | --- | --- |
@@ -117,16 +117,13 @@ Tor is supported by US government, many NGOs, private foundations, research inst
 
 ## Sources
 
-[links onion](https://torguide.github.io/TorGUIDE/)
 https://medium.com/@darknethome/how-to-enter-darknet-in-2021-b55532cdc3f9
-[dark web links](https://torguide.github.io/TorGUIDE/)
+
 https://brave.com/
-[deep web links](https://torguide.github.io/TorGUIDE/)
 
 Tags:
 dark market,
 hidden wiki,
-hidden service,
 tor search,
 wiki tor,
 tor wiki,
@@ -136,15 +133,12 @@ onion site,
 tor service,
 dark web links,
 tor links 2023,
-deep web links,
-tor links,
 onion sites,
 tor market,
 onion service,
 links onion 2023,
 onion links 2023,
 links onion,
-onion links,
 topic links,
 onion wiki,
 tor browser links,
@@ -153,7 +147,6 @@ tor services,
 tor onion links,
 darknet links,
 darkweb links,
-tor directory,
 weed tor,
 drugs tor,
 deepweb links,
