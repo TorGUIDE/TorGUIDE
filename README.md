@@ -3,18 +3,23 @@ Your source for everything TOR (Guides, tor links, tor directory, onion links, d
 
 :warning: The following TOR Links work only in Tor Browser. Download it from: https://www.torproject.org/download/
 
-Tor versions of clearnet sites (for enchanced privacy)
+
+
+##Tor versions of clearnet sites (for enchanced privacy)
 
 | Site | URL in TOR (OnionV3 Link) |
 | --- | --- |
 | Facebook | [facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion](http://facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion) |
 | ProtonMail | [protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion](http://protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion) |
 | DuckDuckGo | [duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion](https://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion) |
-| Hidden wiki | site down, waiting for new link. |
-| Hidden market | site down, waiting for new link. |
+| Hidden wiki | [wikiv2z7bogl633j4ok2fs3a3ht5f45gpjtiasmqwuxacclxek4u47qd.onion](http://wikiv2z7bogl633j4ok2fs3a3ht5f45gpjtiasmqwuxacclxek4u47qd.onion) |
 | Tor Search | site down, waiting for new link. |
-| Mempool.space (BTC only) | [mempoolhqx4isw62xs7abwphsq7ldayuidyx2v2oethdhhj6mlo2r6ad.onion](http://mempoolhqx4isw62xs7abwphsq7ldayuidyx2v2oethdhhj6mlo2r6ad.onion) |
-| Monero Official | [monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion](http://monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion) |
+
+
+##Commercial markets
+
+| Site | URL in TOR (OnionV3 Link) |
+| --- | --- |
 | MoneYUU | [moneyuu7hga6jpcfbamefsjwkv3bez3b3hkczpfzjb5zneunpqdh2uyd.onion](http://moneyuu7hga6jpcfbamefsjwkv3bez3b3hkczpfzjb5zneunpqdh2uyd.onion) |
 | Paypal World | [payplb3mm5bdkns6v7xou7xeefcl5bqedofcpnd462rw4gm4xbbwfpad.onion](http://payplb3mm5bdkns6v7xou7xeefcl5bqedofcpnd462rw4gm4xbbwfpad.onion) |
 | Chemi5 | [chemi5wtn2hs27wlwgaosi663wswrutofqzhvrjb2ogtxpb42gezebqd.onion](http://chemi5wtn2hs27wlwgaosi663wswrutofqzhvrjb2ogtxpb42gezebqd.onion) |
@@ -23,6 +28,15 @@ Tor versions of clearnet sites (for enchanced privacy)
 | Apple World | [applbwku7dfadkfkumiojsbxekuiafpr44idl7bxb2xll6neykvx35id.onion](http://applbwku7dfadkfkumiojsbxekuiafpr44idl7bxb2xll6neykvx35id.onion) |
 | Hackerpass | [hackeoyrzjy3ob4cdr2q56bgp7cpatruphcxvgbfsiw6zeqcc36e4ryd.onion](http://hackeoyrzjy3ob4cdr2q56bgp7cpatruphcxvgbfsiw6zeqcc36e4ryd.onion) |
 | Breaking Bad Forum | [bbzzzsvqcrqtki6umym6itiixfhni37ybtt7mkbjyxn2pgllzxf2qgyd.onion](http://bbzzzsvqcrqtki6umym6itiixfhni37ybtt7mkbjyxn2pgllzxf2qgyd.onion) |
+| Hidden market | site down, waiting for new link. |
+
+
+##Cryptocurrency related
+
+| Site | URL in TOR (OnionV3 Link) |
+| --- | --- |
+| Mempool.space (BTC only) | [mempoolhqx4isw62xs7abwphsq7ldayuidyx2v2oethdhhj6mlo2r6ad.onion](http://mempoolhqx4isw62xs7abwphsq7ldayuidyx2v2oethdhhj6mlo2r6ad.onion) |
+| Monero Official | [monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion](http://monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion) |
 
 # How to access dark net?
 
