@@ -7,7 +7,7 @@ Your source for everything TOR (Guides, tor links, tor directory, onion links, d
 
 ## Tor versions of clearnet sites (for enchanced privacy)
 
-| Site | URL in TOR (OnionV3 Link) |
+| Site | TOR URL |
 | --- | --- |
 | Facebook | [facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion](http://facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion) |
 | Twitter | [twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion](https://twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion) |
@@ -33,13 +33,15 @@ Your source for everything TOR (Guides, tor links, tor directory, onion links, d
 
 ## Email Providers
 
+| Provider | Tor Link |
+| --- | --- |
 | ProtonMail | [protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion](http://protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion) |
 | DNMX | [dnmxjaitaiafwmss2lx7tbs5bv66l7vjdmb5mtb3yqpxqhk3it5zivad.onion](http://dnmxjaitaiafwmss2lx7tbs5bv66l7vjdmb5mtb3yqpxqhk3it5zivad.onion) |
 
 
 ## Cryptocurrency related
 
-| Site | URL in TOR (OnionV3 Link) |
+| Site | Dark web link |
 | --- | --- |
 | Mempool.space (BTC only) | [mempoolhqx4isw62xs7abwphsq7ldayuidyx2v2oethdhhj6mlo2r6ad.onion](http://mempoolhqx4isw62xs7abwphsq7ldayuidyx2v2oethdhhj6mlo2r6ad.onion) |
 | Monero Official | [monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion](http://monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion) |
