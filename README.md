@@ -5,18 +5,18 @@ Your source for everything TOR (Guides, tor links, tor directory, onion links, d
 
 
 
-##Tor versions of clearnet sites (for enchanced privacy)
+## Tor versions of clearnet sites (for enchanced privacy)
 
 | Site | URL in TOR (OnionV3 Link) |
 | --- | --- |
 | Facebook | [facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion](http://facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion) |
-| ProtonMail | [protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion](http://protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion) |
+| Twitter | [twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion](https://twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion) |
 | DuckDuckGo | [duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion](https://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion) |
 | Hidden wiki | [wikiv2z7bogl633j4ok2fs3a3ht5f45gpjtiasmqwuxacclxek4u47qd.onion](http://wikiv2z7bogl633j4ok2fs3a3ht5f45gpjtiasmqwuxacclxek4u47qd.onion) |
 | Tor Search | site down, waiting for new link. |
 
 
-##Commercial markets
+## Commercial markets
 
 | Site | URL in TOR (OnionV3 Link) |
 | --- | --- |
@@ -31,7 +31,13 @@ Your source for everything TOR (Guides, tor links, tor directory, onion links, d
 | Hidden market | site down, waiting for new link. |
 
 
-##Cryptocurrency related
+## Email Providers
+
+| ProtonMail | [protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion](http://protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion) |
+| DNMX | [dnmxjaitaiafwmss2lx7tbs5bv66l7vjdmb5mtb3yqpxqhk3it5zivad.onion](http://dnmxjaitaiafwmss2lx7tbs5bv66l7vjdmb5mtb3yqpxqhk3it5zivad.onion) |
+
+
+## Cryptocurrency related
 
 | Site | URL in TOR (OnionV3 Link) |
 | --- | --- |
