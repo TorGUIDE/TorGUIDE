@@ -1,4 +1,4 @@
-# Dark web links 2023 ~ TOR Links ~ Onion Sites
+# Dark web links 2023  (Onion Sites)
 
 ⚠️ The following TOR Links work only in Tor Browser. Download it from: https://www.torproject.org/download/
 
